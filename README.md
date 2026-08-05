@@ -17,4 +17,4 @@ Predict customer churn using machine learning techniques.
 IBM Telco Customer Churn Dataset
 
 ## Status
-Project setup completed.
+Completed data loading and data cleaning
